@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Rooms","order":3,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":2,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_butao_vermelho","order":1,"path":"objects/Obj_butao_vermelho/Obj_butao_vermelho.yy",},
+    {"name":"Obj_conta_ponto","order":3,"path":"objects/Obj_conta_ponto/Obj_conta_ponto.yy",},
+    {"name":"Obj_moedia","order":2,"path":"objects/Obj_moedia/Obj_moedia.yy",},
+    {"name":"Obj_player2","order":4,"path":"objects/Obj_player2/Obj_player2.yy",},
+    {"name":"Spr_butao_vermelho","order":1,"path":"sprites/Spr_butao_vermelho/Spr_butao_vermelho.yy",},
+    {"name":"Spr_moedia","order":2,"path":"sprites/Spr_moedia/Spr_moedia.yy",},
+    {"name":"Spr_player2","order":3,"path":"sprites/Spr_player2/Spr_player2.yy",},
+  ],
+}

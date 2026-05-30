@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Tiles","order":1,"path":"folders/Tiles.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Obj_butao_azul","order":6,"path":"objects/Obj_butao_azul/Obj_butao_azul.yy",},
+    {"name":"Obj_butao_vermelho","order":1,"path":"objects/Obj_butao_vermelho/Obj_butao_vermelho.yy",},
+    {"name":"Obj_moedia","order":4,"path":"objects/Obj_moedia/Obj_moedia.yy",},
+    {"name":"Obj_murio","order":5,"path":"objects/Obj_murio/Obj_murio.yy",},
+    {"name":"Obj_player1","order":2,"path":"objects/Obj_player1/Obj_player1.yy",},
+    {"name":"Obj_player2","order":3,"path":"objects/Obj_player2/Obj_player2.yy",},
+    {"name":"Obj_portia_bazul","order":7,"path":"objects/Obj_portia_bazul/Obj_portia_bazul.yy",},
+    {"name":"Obj_portia_bvermelho","order":8,"path":"objects/Obj_portia_bvermelho/Obj_portia_bvermelho.yy",},
+    {"name":"Spr_bolia","order":2,"path":"sprites/Spr_bolia/Spr_bolia.yy",},
+    {"name":"Spr_butao_azul","order":6,"path":"sprites/Spr_butao_azul/Spr_butao_azul.yy",},
+    {"name":"Spr_butao_vermelho","order":1,"path":"sprites/Spr_butao_vermelho/Spr_butao_vermelho.yy",},
+    {"name":"Spr_moedia","order":3,"path":"sprites/Spr_moedia/Spr_moedia.yy",},
+    {"name":"Spr_murio_grande","order":5,"path":"sprites/Spr_murio_grande/Spr_murio_grande.yy",},
+    {"name":"Spr_murio","order":4,"path":"sprites/Spr_murio/Spr_murio.yy",},
+    {"name":"Spr_portia_bazul","order":7,"path":"sprites/Spr_portia_bazul/Spr_portia_bazul.yy",},
+    {"name":"Spr_portia_bvermelho","order":8,"path":"sprites/Spr_portia_bvermelho/Spr_portia_bvermelho.yy",},
+  ],
+}
