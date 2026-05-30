@@ -1,0 +1,1 @@
+draw_text(32, 32, "Pontos totais: " + string(global.pontos));
