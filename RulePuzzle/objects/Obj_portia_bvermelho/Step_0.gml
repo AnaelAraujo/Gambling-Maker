@@ -1,2 +1,2 @@
-show_debug_message(image_index);
+depth = -y;
 verificador();

@@ -1,7 +1,25 @@
-verif = false;
-function animacao() {
-	if (place_meeting(x, y, Obj_player2) and keyboard_check(vk_enter)) image_index = 1;
-	else image_index = 0;
+verif = true;
+verif2 = 0;
+verif_moedia = false;
+function abrir_portia() {
+	//checa se o Personagem está em cima do botão e se ele apertou o botão
+	if(place_meeting(x, y, Obj_player2) and keyboard_check(vk_enter)){
+		//Altera a Sprite do botão para o botão pressionado
+		image_index = 1;
+		if(verif) {
+			global.aport[0] = true;
+			verif2 = true;
+		}
+		else {
+			global.aport[0] = false;
+			verif2 = true;
+		}
+	}
+	else {
+		image_index = 0;
+		if(verif2) verif = !verif
+		verif2 = false;
+	}
 }
 
 

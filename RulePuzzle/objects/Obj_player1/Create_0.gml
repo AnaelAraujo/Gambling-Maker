@@ -1,6 +1,7 @@
 velocidade = 5;
 interage = false;
 cont = false;
+//Código de movimentação (já funcionando)
 function movimentacao() {
 	if(keyboard_check(ord("W")) and !cont) {
 		if(!place_meeting(x, y - velocidade, Obj_murio)) {
@@ -29,7 +30,7 @@ function movimentacao() {
 		}
 	} 
 }
-
+//código de interação (já funcionando)
 function interacao() {
 	
 	if(keyboard_check(vk_space)){ 

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_portia_bvermelho",
+  "%Name":"Obj_butao_cinza",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_portia_bvermelho",
+  "name":"Obj_butao_cinza",
   "overriddenProperties":[],
   "parent":{
     "name":"Object",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_portia_vermelho",
-    "path":"sprites/Spr_portia_vermelho/Spr_portia_vermelho.yy",
+    "name":"Spr_butao_cinza",
+    "path":"sprites/Spr_butao_cinza/Spr_butao_cinza.yy",
   },
   "spriteMaskId":null,
   "visible":true,

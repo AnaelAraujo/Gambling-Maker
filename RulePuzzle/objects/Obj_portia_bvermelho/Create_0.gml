@@ -1,4 +1,5 @@
 verif = false;
+cont = 0
 function verificador() {
 	if(global.verport[0] and !verif) {
 		image_index += 1;
@@ -7,5 +8,4 @@ function verificador() {
 		image_index -= 1;
 		verif = false;
 	}
-	
 }
