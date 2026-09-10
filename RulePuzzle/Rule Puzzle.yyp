@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Jogo fodão",
+  "%Name":"Rule Puzzle",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -23,7 +23,7 @@
   "MetaData":{
     "IDEVersion":"2026.0.0.16",
   },
-  "name":"Jogo fodão",
+  "name":"Rule Puzzle",
   "resources":[
     {"id":{"name":"Obj_butao_azul","path":"objects/Obj_butao_azul/Obj_butao_azul.yy",},},
     {"id":{"name":"Obj_butao_cinza","path":"objects/Obj_butao_cinza/Obj_butao_cinza.yy",},},

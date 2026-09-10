@@ -3,6 +3,9 @@ interage = false;
 cont = false;
 //Código de movimentação (já funcionando)
 function movimentacao() {
+	var _altura_pixels = sprite_get_height(Obj_murio.sprite_index) * Obj_murio.image_yscale;
+	var _margem_topo = _altura_pixels - 29;
+	
 	if(keyboard_check(ord("W")) and !cont) {
 		if(!place_meeting(x, y - velocidade, Obj_murio)) {
 			if !interage image_index = 2;
@@ -11,6 +14,8 @@ function movimentacao() {
 	} 
 	
 	if(keyboard_check(ord("S")) and !cont) {
+		
+		// A BÓLIA procura colisão 5px mais para baixo
 		if(!place_meeting(x, y + velocidade, Obj_murio)) {
 			if !interage image_index = 0;
 			y += velocidade;
@@ -23,6 +28,7 @@ function movimentacao() {
 			x -= velocidade;
 		}
 	}
+	
 	if(keyboard_check(ord("D")) and !cont) {
 		if(!place_meeting(x + velocidade, y, Obj_murio)) {
 			if !interage image_index = 1;
@@ -30,6 +36,7 @@ function movimentacao() {
 		}
 	} 
 }
+
 //código de interação (já funcionando)
 function interacao() {
 	

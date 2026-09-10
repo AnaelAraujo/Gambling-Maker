@@ -15,3 +15,4 @@ function spawn_moedia(){
 		verif_moedia = false;
 	}
 }
+Obj_player1.velocidade = 1;
